@@ -1,0 +1,36 @@
+Arguments: 
+  D:\NodeJs\node.exe C:\Users\rkewa\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\rkewa\bin;D:\Git\mingw64\bin;D:\Git\usr\local\bin;D:\Git\usr\bin;D:\Git\usr\bin;D:\Git\mingw64\bin;D:\Git\usr\bin;C:\Users\rkewa\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;D:\Python\Scripts;D:\Python;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;D:\NodeJs;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;D:\Git\cmd;D:\Wondershare\Wondershare DemoCreator;D:\MinGw\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\rkewa\AppData\Local\Microsoft\WindowsApps;C:\Users\rkewa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rkewa\.dotnet\tools;C:\Users\rkewa\AppData\Roaming\npm;D:\MongoDB\bin;D:\Git\usr\bin\vendor_perl;D:\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\rkewa\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137150:13)
+      at Interface.emit (node:events:514:28)
+      at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1125:18)
+      at ReadStream.onkeypress (node:internal/readline/interface:264:20)
+      at ReadStream.emit (node:events:514:28)
+      at emitKeys (node:internal/readline/utils:371:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+      at ReadStream.emit (node:events:514:28)
+      at addChunk (node:internal/streams/readable:376:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
