@@ -1,1 +1,8 @@
 # BaatChit
+Make .env file and add environment variables
+PORT = 9000
+MONGO_URI = <MONGO_URI>
+NODE_ENV = <DEVELOPEMNET OR PRODUCTION>
+EMAIL = <EMAIL>
+EMAIL_PASS = <EMAIL_PASS>
+OTP_EXPIRATION_MINUTE = 1
